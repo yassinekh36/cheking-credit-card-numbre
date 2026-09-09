@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
 int summ(int num){   
-     return (num%10)+(num/10%10);
-
-    
+     return (num%10)+(num/10%10);    
 }
 int odd(string creditnum){
      int sum=0;
